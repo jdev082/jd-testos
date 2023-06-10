@@ -1,4 +1,4 @@
-;JaydenDev's digitally distributed computer operating system
+;jdev082's digitally distributed computer operating system
 ;This is the bootloader component
 mov ah, 0x0e ; tty mode
 mov al, 'i'
